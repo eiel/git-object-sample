@@ -1,0 +1,6 @@
+関連コマンド
+
+* 関連コマンド
+- git show
+- git ls-tree
+- git cat-file
